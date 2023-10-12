@@ -19,3 +19,5 @@ mostra dentro de um novo <Text>
 Tente pesquisar e adicionar uma
 imagem por conta própria ao seu app,
 logo após todos os texto
+
+<img src="/AppMobileImage.jpeg">
